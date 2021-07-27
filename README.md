@@ -24,13 +24,15 @@ This application was created using the MERN stack. It allows users to search for
 
 #### Search, save, view, and delete books:   
 
-![FullScreenShot](client/src/utils/images/FullScreenShot.png?raw=true "FullScreenShot")
+![FullScreenShot](client/src/utils/images/FullScreenShot.png "FullScreenShot")
 
-![SearchResults](client/src/utils/images/SearchResults.png?raw=true "SearchResults")
+![SearchResults](client/src/utils/images/SearchResults.jpg"SearchResults")
 
-![SavedBooks](client/src/utils/images/SavedBooks.png?raw=true "SavedBooks")
+![SavedBooks](client/src/utils/images/SavedBooks.jpg "SavedBooks")
 
-![Google Book Search Demo](client/src/utils/images/GoogleBookSearchDemo.gif?raw=true "Google Book Search Demo")
+![Google Book Search Demo](client/src/utils/images/GoogleBookSearchDemo.gif "Google Book Search Demo")
+
+Demo Link: https://drive.google.com/file/d/1ljb-v66QG9_xPuuLdUcGtyESDfOmqtoY/view
 
 ---
 
